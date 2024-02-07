@@ -1,0 +1,3 @@
+[submodule "coracle"]
+	path = coracle
+	url = https://github.com/coracle-social/coracle
